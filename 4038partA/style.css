@@ -1,0 +1,256 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.header
+{
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  font-family: arial;
+  background-color: rgb(255, 102, 0);
+  height: 100px;
+  border-bottom: solid black;
+}
+
+.sidebar
+{
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  top: 102px;
+  width: 250px;
+  background-color: rgb(219, 222, 224);
+  border-right: solid black;
+}
+
+.sidebar_button
+{
+  background-color: black;
+  color: white;
+  height: 36px;
+  width: 100px;
+  border: none;
+  border-radius: 5px;
+  margin-top: 25px;
+  margin-left: 25px;
+  padding-right: 150px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.sidebar_button:hover {
+  opacity: 0.3;
+}
+
+.sidebar_button:active {
+  opacity: 0.7;
+}
+
+.description
+{
+  display: flex;
+  flex-direction: column;
+  margin-left: 275px;
+}
+
+.description_title
+{
+  font-family: arial;
+  font-size: 30px;
+  font-weight: bold;
+  font-style: italic;
+  margin-top: 140px;
+}
+
+.description_1st_part
+{
+  font-family: arial;
+  font-size: 18px;
+  margin-right: 100px;
+}
+
+.description_2nd_part {
+  font-family: arial;
+  font-size: 18px;
+  margin-right: 100px;
+}
+
+.bold-text
+{
+  color: rgb(255, 102, 0);
+}
+
+.description_epilogue
+{
+  font-family: arial;
+  font-size: 30px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.image
+{
+  height: 400px;
+  width: 600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.announcements
+{
+  display: flex;
+  flex-direction: column;
+  margin-left: 275px;
+  margin-top: 140px;
+}
+
+.announcement_title
+{
+  color: rgb(255, 102, 0);
+  font-family: arial;
+  margin-bottom: 5px;
+}
+
+.announcement_body
+{
+  margin-top: 10px;
+  margin-left: 50px;
+  font-family: arial;
+  font-size: 18px;
+  line-height: 35px;
+  border-bottom: solid black; 
+  margin-bottom: 80px;
+}
+
+.homework_link
+{
+  cursor: pointer;
+  color: rgb(255, 102, 0);
+}
+
+.top{
+  margin-right: 50px;
+  font-size: 35px;
+}
+
+.communication
+{
+  display: flex;
+  flex-direction: column;
+  margin-left: 275px;
+  margin-top: 140px;
+}
+
+.communication_description
+{
+  font-family: arial;
+  font-size: 22px;
+  margin-right: 100px;
+}
+
+.communication_title
+{
+  color: rgb(255, 102, 0);
+  font-family: arial;
+  margin-bottom: 5px;
+}
+
+.communication_body
+{
+  margin-top: 10px;
+  margin-left: 50px;
+  font-family: arial;
+  font-size: 18px;
+  line-height: 35px;
+  border-bottom: solid black; 
+  margin-bottom: 80px;
+}
+
+.bullets
+{
+  font-family: arial;
+  font-size: 18px;
+  margin-top: 3px;
+}
+
+.documents
+{
+  display: flex;
+  flex-direction: column;
+  margin-left: 275px;
+  margin-top: 140px;
+}
+
+.document_title
+{
+  color: rgb(255, 102, 0);
+  font-family: arial;
+  margin-bottom: 5px;
+}
+
+.document_body
+{
+  margin-top: 10px;
+  margin-left: 50px;
+  font-family: arial;
+  font-size: 18px;
+  line-height: 35px;
+  border-bottom: solid black; 
+  margin-bottom: 80px;
+}
+
+.homework
+{
+  display: flex;
+  flex-direction: column;
+  margin-left: 275px;
+  margin-top: 140px;
+}
+
+.homework_title
+{
+  color: rgb(255, 102, 0);
+  font-family: arial;
+  margin-bottom: 12px;
+}
+
+.homework_body
+{
+  margin-top: 0px;
+  margin-left: 50px;
+  font-family: arial;
+  font-size: 18px;
+  line-height: 35px;
+  margin-bottom: 0px;
+  font-style: italic;
+}
+
+.homework_body_2
+{
+  margin-top: 0px;
+  margin-left: 90px;
+  font-family: arial;
+  font-size: 18px;
+  line-height: 35px;
+  margin-bottom: 0px;
+  font-style: italic;
+}
+
+.homework_date
+{
+  margin-top: 0px;
+  margin-left: 50px;
+  font-family: arial;
+  font-size: 18px;
+  line-height: 35px;
+  margin-bottom: 20px;
+  font-style: italic;
+  border-bottom: solid black;
+}
