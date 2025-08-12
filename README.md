@@ -1,4 +1,4 @@
-# E-learning-website Project
+# E-learning website Project
 
 This project consists of two parts: a **static website (Part A)** and a **dynamic website with database management (Part B)**. The goal is to create a comprehensive e-learning environment for a course.
 
