@@ -37,6 +37,6 @@ The `student4038` database contains the following tables:
 * `documents`: Stores course-related documents and materials.
 * `users`: Manages system users with different roles (Tutor, Student).
 
-### 🔗 Project Links
+### 🔗 Website Links
 * **Part A (Static Website)**: https://evangdimos.webpages.auth.gr/4038partA/
 * **Part B (Dynamic Website)**: https://evangdimos.webpages.auth.gr/4038partB/
