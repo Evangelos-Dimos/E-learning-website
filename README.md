@@ -36,3 +36,7 @@ The `student4038` database contains the following tables:
 * `homework`: Contains information about assignments (objectives, deadlines, files).
 * `documents`: Stores course-related documents and materials.
 * `users`: Manages system users with different roles (Tutor, Student).
+
+### 🔗 Project Links
+* **Part A (Static Website)**: https://evangdimos.webpages.auth.gr/4038partA/
+* **Part B (Dynamic Website)**: https://evangdimos.webpages.auth.gr/4038partB/
