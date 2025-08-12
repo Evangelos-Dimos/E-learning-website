@@ -37,3 +37,8 @@ The `student4038` database contains the following tables:
 * `documents`: Stores course-related documents and materials.
 * `users`: Manages system users with different roles (Tutor, Student).
 
+## 💻 Technologies Used
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS3)
+[![PHP](https://img.shields.io/badge/php-%23777bb4.svg?style=for-the-badge&logo=php&logoColor=white)](https://en.wikipedia.org/wiki/PHP)
+[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/MySQL)
